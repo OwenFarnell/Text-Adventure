@@ -781,7 +781,7 @@ public class Main
 				if(swingMove == 1)
 					{
 						delay();
-					System.out.println("You swing at the head, but miss by a mile. \nWhat do you want to do now?");
+					System.out.println("You swing at the head, but miss by a longshot. \nWhat do you want to do now?");
 					fightGoblin();
 					}
 				if(swingMove == 2)
